@@ -1,0 +1,16 @@
+body {
+    background-color: #F2C2FF;
+  }
+  
+  h1, h2, h3 {
+    color: #FF69B4;
+  }
+  
+  p, a {
+    color: #333333;
+  }
+  
+  button {
+    background-color: #ADD8E6;
+    color: #fff;
+  }
